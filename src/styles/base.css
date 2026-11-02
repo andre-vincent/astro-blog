@@ -125,6 +125,7 @@
   }
 }
 
+
 @layer components {
   .display-none {
     @apply hidden;
@@ -133,3 +134,4 @@
     @apply outline-2 outline-offset-1 outline-skin-fill focus-visible:no-underline focus-visible:outline-dashed;
   }
 }
+body {font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;}
